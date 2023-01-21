@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChimaThePro
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning python and then business analysis
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in a remote data analyst position
+- 🌱 Growing my knowledge in the field
+- 💞️ I’m looking to collaborate on ideas
 - 📫 How to reach me chimawork1996@gmail.com
 
 <!---
